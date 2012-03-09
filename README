@@ -1,0 +1,21 @@
+This project was occasioned by a problem at math.stackexchange.com about
+counting latin squares, and in particular counting diagonal latin squares,
+those with both main diagonal and anti-diagonal transversals.
+
+http://math.stackexchange.com/q/92752/3111
+
+I began by modifying some Prolog code I'd written in the past for generating
+permutations and in particular for derangements and sudoku matrices, also a
+kind of restricted latin square.
+
+The code files in this project will have *.pro extensions.  Many Prolog tool
+chains expect *.pl extensions, but unfortunately this is a matter of dispute
+with the Perl community, who also claim that two letter designation.  I'm
+giving in for now, succumbing to the temptations of syntax highlighting with
+such programmer's text editors as jEdit.
+
+All this code will be open sourced under the GPL3 license, with appropriate
+notice to that effect in each source file.
+
+regards, hardmath
+2012-03-06
